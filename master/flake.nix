@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-protobuf_serialization-master.flake = false;
+  inputs.src-protobuf_serialization-master.ref   = "refs/heads/master";
   inputs.src-protobuf_serialization-master.owner = "status-im";
-  inputs.src-protobuf_serialization-master.ref   = "master";
   inputs.src-protobuf_serialization-master.repo  = "nim-protobuf-serialization";
   inputs.src-protobuf_serialization-master.type  = "github";
   

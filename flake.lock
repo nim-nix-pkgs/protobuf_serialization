@@ -358,11 +358,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658020672,
-        "narHash": "sha256-Tk7CJh1SBipeJVYvZQ5wnbWwJ2kmCJizU0Kajjk+a6M=",
+        "lastModified": 1658034281,
+        "narHash": "sha256-pmjgPCKYpHgjZGK9mozYACqUnQDaeSPH3V6sPYjG0Rw=",
         "owner": "nim-nix-pkgs",
         "repo": "protobuf_serialization",
-        "rev": "1dc41c75f2012c9256d9388dfbf77d00c6da4acb",
+        "rev": "505deac2ce9e7df0c92d9a05d6e329f7a9727dff",
         "type": "github"
       },
       "original": {
